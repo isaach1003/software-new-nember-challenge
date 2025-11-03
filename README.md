@@ -1,11 +1,11 @@
 ## Software New Member Challenge
 This is my submission for the LSU Tiger Racing software team!
 
-Contact: discord:ih11, email:isaacjhumphries@gmail.com, github:isaach1003
+Contact: discord: ih11, email: isaacjhumphries@gmail.com, github: isaach1003
 
 ### Required Software
 Below are the required software, as well as the versions of them used in the project.
-Python (3.13), pandas (2.3.3), numpy (1.26.4)
+Python (3.13), pandas (2.3.3), numpy (2.3.4)
 
 ### Purpose & Use
 The purpose of this code is to take a csv file and turn it into a readable JSON output.
@@ -21,3 +21,4 @@ Currently, the code reformats the floats for the JSON output, and makes them rou
 To use the code as intended, make sure you have an 'in' and 'out' folder, and uncomment the bottom of the code, replacing 'in/data.csv' with your file, and 'out/out.json' with whatever you want your JSON file to be called.
 
 The test cases are also available for download and use, but if you do not wish to use those it is necessary to comment out the code between the comments labeled "start of test files" and "end of test files".
+
