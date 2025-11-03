@@ -1,0 +1,69 @@
+{
+    "drivers": {
+        "Jones": {
+            "fastest_lap": {
+                "lap_number": 1,
+                "time": "85.500",
+                "sector_times": {
+                    "sector1": "28.500",
+                    "sector2": "28.500",
+                    "sector3": "28.500"
+                }
+            },
+            "average_pace": "85.500",
+            "consistency_rating": {
+                "standard_deviation": "0.000",
+                "rating": "Excellent"
+            },
+            "trend": {
+                "type": "Stable",
+                "slope": "0.000",
+                "description": "Lap times remain consistent"
+            }
+        }
+    },
+    "summary": {
+        "total_laps_analyzed": 2,
+        "drivers_count": 1,
+        "fastest_sector1": {
+            "driver(s)": [
+                "Jones"
+            ],
+            "lap_number(s)": [
+                1,
+                2
+            ],
+            "time": "85.500"
+        },
+        "fastest_sector2": {
+            "driver(s)": [
+                "Jones"
+            ],
+            "lap_number(s)": [
+                1,
+                2
+            ],
+            "time": "85.500"
+        },
+        "fastest_sector3": {
+            "driver(s)": [
+                "Jones"
+            ],
+            "lap_number(s)": [
+                1,
+                2
+            ],
+            "time": "85.500"
+        },
+        "overall_fastest_lap": {
+            "driver(s)": [
+                "Jones"
+            ],
+            "lap_number(s)": [
+                1,
+                2
+            ],
+            "time": "85.500"
+        }
+    }
+}

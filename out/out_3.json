@@ -1,0 +1,65 @@
+{
+    "drivers": {
+        "Brown": {
+            "fastest_lap": {
+                "lap_number": 3,
+                "time": "90.000",
+                "sector_times": {
+                    "sector1": "31.000",
+                    "sector2": "31.000",
+                    "sector3": "28.000"
+                }
+            },
+            "average_pace": "95.000",
+            "consistency_rating": {
+                "standard_deviation": "4.082",
+                "rating": "Needs Improvement"
+            },
+            "trend": {
+                "type": "Improving",
+                "slope": "-5.000",
+                "description": "Lap times decreasing by 5.00s per lap on average"
+            }
+        }
+    },
+    "summary": {
+        "total_laps_analyzed": 3,
+        "drivers_count": 1,
+        "fastest_sector1": {
+            "driver(s)": [
+                "Brown"
+            ],
+            "lap_number(s)": [
+                3
+            ],
+            "time": "90.000"
+        },
+        "fastest_sector2": {
+            "driver(s)": [
+                "Brown"
+            ],
+            "lap_number(s)": [
+                3
+            ],
+            "time": "90.000"
+        },
+        "fastest_sector3": {
+            "driver(s)": [
+                "Brown"
+            ],
+            "lap_number(s)": [
+                3
+            ],
+            "time": "90.000"
+        },
+        "overall_fastest_lap": {
+            "driver(s)": [
+                "Brown"
+            ],
+            "lap_number(s)": [
+                3
+            ],
+            "time": "90.000"
+        }
+    }
+}

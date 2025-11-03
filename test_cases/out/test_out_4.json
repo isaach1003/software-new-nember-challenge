@@ -1,0 +1,49 @@
+{
+  "drivers": {
+    "Alice": {
+      "fastest_lap": {
+        "lap_number": 1,
+        "time": 90.000,
+        "sector_times": {
+          "sector1": 25.000,
+          "sector2": 35.000,
+          "sector3": 30.000
+        }
+      },
+      "average_pace": 90.000,
+      "consistency_rating": {
+        "standard_deviation": 0.0,
+        "rating": "Excellent"
+      },
+      "trend": {
+        "type": "Stable",
+        "slope": 0.0
+      }
+    },
+    "Bob": {
+      "fastest_lap": {
+        "lap_number": 1,
+        "time": 90.000,
+        "sector_times": {
+          "sector1": 30.000,
+          "sector2": 20.000,
+          "sector3": 40.000
+        }
+      },
+      "average_pace": 90.000,
+      "consistency_rating": {
+        "standard_deviation": 0.0,
+        "rating": "Excellent"
+      },
+      "trend": {
+        "type": "Stable",
+        "slope": 0.0
+      }
+    }
+  },
+  "overall_fastest_lap": {
+    "driver": "Alice",
+    "lap_number": 1,
+    "time": 90.000
+  }
+}

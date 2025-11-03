@@ -1,0 +1,65 @@
+{
+    "drivers": {
+        "Smith": {
+            "fastest_lap": {
+                "lap_number": 1,
+                "time": "90.000",
+                "sector_times": {
+                    "sector1": "30.000",
+                    "sector2": "30.000",
+                    "sector3": "30.000"
+                }
+            },
+            "average_pace": "90.000",
+            "consistency_rating": {
+                "standard_deviation": "0.000",
+                "rating": "Excellent"
+            },
+            "trend": {
+                "type": "Stable",
+                "slope": "0.000",
+                "description": "Lap times remain consistent"
+            }
+        }
+    },
+    "summary": {
+        "total_laps_analyzed": 1,
+        "drivers_count": 1,
+        "fastest_sector1": {
+            "driver(s)": [
+                "Smith"
+            ],
+            "lap_number(s)": [
+                1
+            ],
+            "time": "90.000"
+        },
+        "fastest_sector2": {
+            "driver(s)": [
+                "Smith"
+            ],
+            "lap_number(s)": [
+                1
+            ],
+            "time": "90.000"
+        },
+        "fastest_sector3": {
+            "driver(s)": [
+                "Smith"
+            ],
+            "lap_number(s)": [
+                1
+            ],
+            "time": "90.000"
+        },
+        "overall_fastest_lap": {
+            "driver(s)": [
+                "Smith"
+            ],
+            "lap_number(s)": [
+                1
+            ],
+            "time": "90.000"
+        }
+    }
+}

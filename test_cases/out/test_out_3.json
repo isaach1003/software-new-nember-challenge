@@ -1,0 +1,29 @@
+{
+  "drivers": {
+    "Brown": {
+      "fastest_lap": {
+        "lap_number": 3,
+        "time": 90.000,
+        "sector_times": {
+          "sector1": 31.000,
+          "sector2": 31.000,
+          "sector3": 28.000
+        }
+      },
+      "average_pace": 95.000,
+      "consistency_rating": {
+        "standard_deviation": 4.082,
+        "rating": "Needs Improvement"
+      },
+      "trend": {
+        "type": "Improving",
+        "slope": -5.0
+      }
+    }
+  },
+  "overall_fastest_lap": {
+    "driver": "Brown",
+    "lap_number": 3,
+    "time": 90.000
+  }
+}

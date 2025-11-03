@@ -1,0 +1,29 @@
+{
+  "drivers": {
+    "Jones": {
+      "fastest_lap": {
+        "lap_number": 1,
+        "time": 85.500,
+        "sector_times": {
+          "sector1": 28.500,
+          "sector2": 28.500,
+          "sector3": 28.500
+        }
+      },
+      "average_pace": 85.500,
+      "consistency_rating": {
+        "standard_deviation": 0.0,
+        "rating": "Excellent"
+      },
+      "trend": {
+        "type": "Stable",
+        "slope": 0.0
+      }
+    }
+  },
+  "overall_fastest_lap": {
+    "driver": "Jones",
+    "lap_number": 1,
+    "time": 85.500
+  }
+}
